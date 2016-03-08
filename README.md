@@ -10,4 +10,5 @@
 4.仔细阅读了**markdown**语法,正在写第一个**README.md**(虽然并没有想好写点什么~).  
 ###然后展示下学习**markdown**的成果好啦！  
 1.学会了[插入链接](http://www.bilibili.com/video/av911093/);  
-2.学会了![插入图片](http://img.xiumi.us/xmi/ua/fUEF/i/3ce881d2475dbf1e71020eb79634ca3a-sz_7814.jpg@1l_640w.jpg)
+2.学会了插入图片![这波不亏](http://img.xiumi.us/xmi/ua/fUEF/i/f2d4f9224bb711c6b022225ba9d988a6-sz_14574.jpg@1l_640w.jpg)  
+
