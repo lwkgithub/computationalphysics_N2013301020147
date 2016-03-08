@@ -11,9 +11,9 @@
 ###然后展示下学习**markdown**的成果好啦！  
 1.学会了[插入链接](http://www.bilibili.com/video/av911093/);  
 2.学会了插入图片![这波不亏](http://img.xiumi.us/xmi/ua/fUEF/i/f2d4f9224bb711c6b022225ba9d988a6-sz_14574.jpg@1l_640w.jpg);  
-3.还学会了插入表格~  
-| Tables        | Are           | Cool  |  
-| ------------- |:-------------:| -----:|  
-| col 3 is      | right-aligned | $1600 |  
-| col 2 is      | centered      |   $12 |  
-| zebra stripes | are neat      |    $1 |  
+3.还有
+####多
+#####级
+######标
+#######题
+
