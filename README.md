@@ -30,6 +30,8 @@
 2.作业**L2**：在屏幕上用字符拼出任意次序的姓名，效果如下图：  
 ![换顺序](http://img.xiumi.us/xmi/ua/fUEF/i/04710c55d48033f32bf5804ce0d0d45a-sz_31156.jpg@1l_640w.jpg)  
 说明：将'l' 'w' 'k'三个字母按照不同顺序输入可以得到不同顺序的输出结果,程序代码如下图所示：  
-![homework](http://img.xiumi.us/xmi/ua/fUEF/i/c27c6fb1d492d5df315242c0f1a7d36b-sz_36283.jpg@1l_640w.jpg)
+![homework](http://img.xiumi.us/xmi/ua/fUEF/i/c27c6fb1d492d5df315242c0f1a7d36b-sz_36283.jpg@1l_640w.jpg)  
+原程序请[点击这里](https://github.com/lwkgithub/computationalphysics_N2013301020147/blob/master/homework%203rd%20level2.py)查看；  
+
 
 
