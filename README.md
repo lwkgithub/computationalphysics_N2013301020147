@@ -26,7 +26,7 @@
 暂无  
 ###正文：
 1.安装了**vim**环境，并学习了相关基础操作,vim如下图：  
-！[vim](http://img.xiumi.us/xmi/ua/fUEF/i/71f7b085eda01d254169efa67b901441-sz_28264.jpg@1l_640w.jpg)  
+![vim](http://img.xiumi.us/xmi/ua/fUEF/i/71f7b085eda01d254169efa67b901441-sz_28264.jpg@1l_640w.jpg)  
 2.安装了插件并点赞，不过还没研究怎么使用;  
 3.在规定网站尝试了练习python.  
 ###结论：
