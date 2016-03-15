@@ -46,7 +46,7 @@
 ![换顺序](http://img.xiumi.us/xmi/ua/fUEF/i/04710c55d48033f32bf5804ce0d0d45a-sz_31156.jpg@1l_640w.jpg)  
 说明：将'l' 'w' 'k'三个字母按照不同顺序输入可以得到不同顺序的输出结果,程序代码如下图所示：  
 ![homework](http://img.xiumi.us/xmi/ua/fUEF/i/c27c6fb1d492d5df315242c0f1a7d36b-sz_36283.jpg@1l_640w.jpg)  
-原程序请[点击这里](https://github.com/lwkgithub/computationalphysics_N2013301020147/blob/master/homework%203rd%20level2.py)查看； 
+原程序请[点击这里](https://github.com/lwkgithub/computationalphysics_N2013301020147/blob/master/homework%203rd%20level2.py)查看；   
 3.作业**L3**：这个好像要用到图形界面的相关内容，我目前还不太会弄， 我之后弄明白了会再补上，请老师理解.  
 ###致谢：
 特别感谢陈锋同学在编写过程中给与我的指导.  
