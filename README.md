@@ -57,7 +57,17 @@
 ###背景：
 暂无  
 ###正文：
-我选择了作业的1.1题，要求是根据自由落体运动写一个程序，并作出其速度与时间之间的函数图像  
-
+我选择了作业的**1.1题**（最简单的一题= =），要求是根据自由落体运动写一个程序，并作出其速度与时间之间的函数图像  
+1.程序：  
+![程序图](http://img.xiumi.us/xmi/ua/fUEF/i/b93f48c447a1e452be80bd14bfa9ed29-sz_17372.jpg@1l_640w.jpg)  
+2.运行数据和结果：  
+![数据图](http://img.xiumi.us/xmi/ua/fUEF/i/4dc16793bba45e539786c90519ee42f4-sz_21165.jpg@1l_640w.jpg)  
+![结果](http://img.xiumi.us/xmi/ua/fUEF/i/562e55982f873e7518ff07b237747648-sz_11434.jpg@1l_640w.jpg)  
+3.程序本体：  
+[戳戳戳](https://github.com/lwkgithub/computationalphysics_N2013301020147/blob/master/homework4.py)  
+###致谢：
+1. 蔡浩老师的样板程序；  
+2. 感谢刘文焘同学的无私指导。  
+***
 
 
